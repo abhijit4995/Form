@@ -1,0 +1,28 @@
+body{
+    background-image:url(assest/mountain.jpg) ;
+    opacity: 8px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.abc{
+    background-color: white;
+    margin: 100px 400px 20px  400px;
+
+}
+.fm{
+    border: 5px solid yellow;
+    border-style: groove;
+    text-align: center;
+}
+.drop{
+    width: 350px;
+}
+.git{
+    background-color: white;
+    color: blueviolet;
+}
+.pa{
+    color:orangered;
+    font-size: 20px;
+}
