@@ -6,23 +6,26 @@ body{
 
 }
 .abc{
-    background-color: white;
+    background-color:pink;
     margin: 100px 400px 20px  400px;
 
 }
 .fm{
     border: 5px solid yellow;
     border-style: groove;
+    border-color: blanchedalmond;
     text-align: center;
+    padding: 15px 15px 15px 15px;
 }
+
 .drop{
-    width: 350px;
+    width: 360px;
 }
 .git{
-    background-color: white;
-    color: blueviolet;
+    background-color: aqua;
+    font-size: larger;
 }
 .pa{
-    color:orangered;
+    color:white;
     font-size: 20px;
 }
